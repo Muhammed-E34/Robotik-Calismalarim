@@ -1,1 +1,1 @@
-print("Merhaba Robotik Dunyasi")
+print("Merhaba, ben MSI bilgisayarımda Yapay Zeka için hazırım!")
